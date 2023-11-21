@@ -1,0 +1,18 @@
+
+		Num of elements: 10000
+
+		Selection sort for pointer type array[ns]: 60880600
+
+		Selection sort for std::vector type array with algorithm header[ns]: 365357700
+
+		Selection sort for std::vector type array[ns]: 5669752300
+
+		Bubble sort for pointer type array[ns]: 151962800
+
+		Bubble sort for std::vector type array[ns]: 815769900
+
+		Insertion sort for pointer type array[ns]: 35098900
+
+		Insertion sort for std::vector type array[ns]: 15438737000
+
+		Merge sort for pointer type array[ns]: 1296700
